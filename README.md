@@ -1,55 +1,37 @@
-# Decodelabs Internship 2026 – Data Analytics Project
-#PROJECT-02
-## 📌 Project Overview
+📊 DecodeLabs – Task 02
 
-This repository contains my Data Analytics internship project completed during my internship at Decodelabs.
+Exploratory Data Analysis (EDA)
 
-The project focuses on Exploratory Data Analysis (EDA), data cleaning, analysis, and visualization to identify meaningful insights from the dataset.
+This project was completed as part of the DecodeLabs Industrial Training Program – Data Analytics, Batch 2026.
 
-## 🎯 Objectives
+The objective of Task 02 is to perform Exploratory Data Analysis (EDA) to understand patterns, trends, distributions, and important observations from the given dataset.
 
-- Clean and prepare the dataset for analysis
-- Perform Exploratory Data Analysis (EDA)
-- Identify important patterns and trends
-- Analyze key business metrics
-- Create meaningful visualizations and dashboards
-- Present data-driven insights
+🎯 Task Objectives
 
-## 🛠️ Tools & Technologies
+- Calculate basic statistics such as Mean, Median, and Count
+- Identify trends and outliers
+- Analyze data distributions
+- Summarize key observations and insights
+- Develop analytical thinking through practical data analysis
 
-- Microsoft Excel
-- Data Cleaning
+🛠️ Skills Used
+
 - Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Data Visualization
-- Dashboard Creation
-
-## 📊 Project Deliverables
-
-- Cleaned and analyzed dataset
-- EDA report
-- Statistical analysis
-- Data visualizations
-- Interactive dashboard
-- Key business insights
-
-## 📁 Repository Contents
-
-- Decodelabs_EDA_report.xlsx – EDA report, analysis, and dashboard
-- Project documentation and supporting files
-
-## 🔍 Key Skills Demonstrated
-
-- Data Cleaning
+- Descriptive Statistics
 - Data Analysis
-- Excel Functions
-- Statistical Analysis
-- Data Visualization
-- Dashboard Development
-- Business Insights
+- Trend Analysis
+- Outlier Detection
+- Data Interpretation
 
-## 👤 Author
+🏢 Training Program
+
+Organization: DecodeLabs
+Program: Industrial Training – Data Analytics
+Batch: 2026
+Task: Task 02 – Exploratory Data Analysis
+
+👤 Author
 
 Aryan Kumar
 
-Aspiring Data Analyst
+Data Analytics | Excel | SQL | Power BI | Python
